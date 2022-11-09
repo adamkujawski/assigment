@@ -1,0 +1,223 @@
+{
+  "name": "Pickle - Figma to React (Community)",
+  "lastModified": "2022-11-07T18:17:45Z",
+  "thumbnailUrl": "",
+  "version": "2577771164",
+  "role": "viewer",
+  "editorType": "figma",
+  "linkAccess": "view",
+  "nodes": {
+    "1:175": {
+      "document": {
+        "id": "1:175",
+        "name": "Frame 5",
+        "type": "FRAME",
+        "scrollBehavior": "SCROLLS",
+        "blendMode": "NORMAL",
+        "children": [
+          {
+            "id": "1:176",
+            "name": "Ellipse 1",
+            "type": "ELLIPSE",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 52.0,
+              "y": -21.0,
+              "width": 111.0,
+              "height": 111.0
+            },
+            "absoluteRenderBounds": {
+              "x": 52.0,
+              "y": -21.0,
+              "width": 111.0,
+              "height": 111.0
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0.0,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.85098040103912354,
+                  "g": 0.85098040103912354,
+                  "b": 0.85098040103912354,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "effects": [],
+            "arcData": {
+              "startingAngle": 0.0,
+              "endingAngle": 6.2831854820251465,
+              "innerRadius": 0.0
+            }
+          },
+          {
+            "id": "1:177",
+            "name": "Ellipse 2",
+            "type": "RECTANGLE",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 193.0,
+              "y": -21.0,
+              "width": 111.0,
+              "height": 111.0
+            },
+            "absoluteRenderBounds": {
+              "x": 193.0,
+              "y": -21.0,
+              "width": 111.0,
+              "height": 111.0
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0.0,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.85098040103912354,
+                  "g": 0.85098040103912354,
+                  "b": 0.85098040103912354,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "effects": [],
+            "arcData": {
+              "startingAngle": 0.0,
+              "endingAngle": 6.2831854820251465,
+              "innerRadius": 0.0
+            }
+          },
+          {
+            "id": "1:178",
+            "name": "Ellipse 3",
+            "type": "ELLIPSE",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 334.0,
+              "y": -21.0,
+              "width": 111.0,
+              "height": 111.0
+            },
+            "absoluteRenderBounds": {
+              "x": 334.0,
+              "y": -21.0,
+              "width": 111.0,
+              "height": 111.0
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0.0,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.85098040103912354,
+                  "g": 0.85098040103912354,
+                  "b": 0.85098040103912354,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "effects": [],
+            "arcData": {
+              "startingAngle": 0.0,
+              "endingAngle": 6.2831854820251465,
+              "innerRadius": 0.0
+            }
+          }
+        ],
+        "absoluteBoundingBox": {
+          "x": 33333333.0,
+          "y": -41.0,
+          "width": 574.0,
+          "height": 151.0
+        },
+        "absoluteRenderBounds": {
+          "x": 32.0,
+          "y": -41.0,
+          "width": 574.0,
+          "height": 151.0
+        },
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "LEFT"
+        },
+        "clipsContent": false,
+        "background": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.82499998807907104,
+              "g": 0.11343747377395630,
+              "b": 0.11343747377395630,
+              "a": 1.0
+            }
+          }
+        ],
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.82499998807907104,
+              "g": 0.11343747377395630,
+              "b": 0.11343747377395630,
+              "a": 1.0
+            }
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1.0,
+        "strokeAlign": "INSIDE",
+        "backgroundColor": {
+          "r": 0.82499998807907104,
+          "g": 0.11343747377395630,
+          "b": 0.11343747377395630,
+          "a": 1.0
+        },
+        "layoutMode": "HORIZONTAL",
+        "itemSpacing": 30.0,
+        "counterAxisAlignItems": "CENTER",
+        "primaryAxisAlignItems": "CENTER",
+        "paddingLeft": 20.0,
+        "paddingRight": 20.0,
+        "paddingTop": 20.0,
+        "paddingBottom": 20.0,
+        "effects": []
+      },
+      "components": {},
+      "componentSets": {},
+      "schemaVersion": 0,
+      "styles": {}
+    }
+  }
+}
