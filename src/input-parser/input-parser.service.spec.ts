@@ -1,5 +1,6 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { InputParserService } from './input-parser.service';
+import * as data from "../../data/input.json";
 
 describe('InputParserService', () => {
   let service: InputParserService;
@@ -16,3 +17,9 @@ describe('InputParserService', () => {
     expect(service).toBeDefined();
   });
 });
+
+describe('Data should be JSON data',()=>{
+  expect(JSON.stringify(data)).not.toBeUndefined()
+})
+
+
